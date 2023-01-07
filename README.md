@@ -1,6 +1,6 @@
 ## Olá, eu sou Iury, estudante de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/rafaballerini](https://github.com/IuryAlmeiida">
+  <a href="https://github.com/IuryAlmeiida">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IuryAlmeiida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryAlmeiida&layout=compact&langs_count=16&theme=dark"/>
 </div> 
