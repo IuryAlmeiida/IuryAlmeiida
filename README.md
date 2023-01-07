@@ -13,10 +13,8 @@
 </div>
 
 <div>
-  https://discord.com/channels/@me/1032800379865415700
   
- 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="coloque o link aqui" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://wa.me/5565993610246" target="_blank"><img src="coloque o link aqui" target="_blank"></a> 
+ <a href="https:https://www.linkedin.com/in/iury-almeida-a25578254" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
 </div>         
