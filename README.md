@@ -13,8 +13,5 @@
 </div>
 
 <div>
+</div>     
   
- <a href="https://wa.me/5565993610246" target="_blank"><img src="coloque o link aqui" target="_blank"></a> 
- <a href="https:https://www.linkedin.com/in/iury-almeida-a25578254" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  
-</div>         
