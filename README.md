@@ -1,7 +1,7 @@
 ## Olá, eu sou Iury, estudante de engenharia e programação! Seja bem-vindo.
 <div align="center">
   <a href="https://github.com/IuryAlmeiida">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IuryAlmeiida&show_icons=true&theme=gruvbox&include_all_commits=true&count_prublic=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IuryAlmeiida&show_icons=true&theme=gruvbox&include_all_commits=true&count_public=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryAlmeiida&layout=compact&langs_count=16&theme=gruvbox"/>
 </div> 
   <div align="center"><br>
