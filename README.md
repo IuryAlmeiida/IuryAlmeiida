@@ -1,4 +1,6 @@
-## Olá, eu sou Iury, estudante de engenharia e programação! Seja bem-vindo.
+## Olá, eu sou Iury, estudante de engenharia de computação e análise de sistemas. 
+<p>Seja bem-vindo ao meu perfil do github, onde compartilho meus projetos e a minha evolução nessa area da programação.
+  </p>
 <div align="center">
   <a href="https://github.com/IuryAlmeiida">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IuryAlmeiida&show_icons=true&theme=gruvbox&include_all_commits=true&count_public=true"/>
