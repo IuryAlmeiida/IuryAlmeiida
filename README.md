@@ -1,4 +1,4 @@
-## Olá, eu sou Iury, estudante de engenharia da computação e análise de sistemas. 
+## Olá, eu sou Iury, estudante de análise de sistemas e engenharia da computação. 
 <p>Seja bem-vindo ao meu perfil do github, onde compartilho meus projetos e a minha evolução nessa area da programação.
   </p>
 <div align="center">
