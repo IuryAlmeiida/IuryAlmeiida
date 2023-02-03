@@ -3,7 +3,7 @@
   </p>
 <div align="center">
   <a href="https://github.com/IuryAlmeiida">
-  <img width="45%" src="https://github-readme-stats-iuryalmeiida.vercel.app/api?username=IuryAlmeiida&show_icons=true&theme=gruvbox&include_all_commits=true&count_public=true"/>
+  <img width="45%" src="https://github-readme-stats-pi-lime.vercel.app/api?username=IuryAlmeiida&show_icons=true&theme=gruvbox&include_all_commits=true&count_public=true"/>
   <img width="38%" src="https://github-readme-stats-iuryalmeiida.vercel.app/api/top-langs/?username=IuryAlmeiida&layout=compact&langs_count=16&theme=gruvbox"/>
 </div> 
   <div align="center"><br>
