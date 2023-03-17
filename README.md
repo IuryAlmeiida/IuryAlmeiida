@@ -3,9 +3,7 @@
   </p>
 <div align="center">
   <a href="https://github.com/IuryAlmeiida">
-  <img width="45%" src="https://github-readme-stats-pi-lime.vercel.app/api?username=IuryAlmeiida&show_icons=true&theme=gruvbox&include_all_commits=true&count_public=true"/>
-  <img width="38%" src="https://github-readme-stats-iuryalmeiida.vercel.app/api/top-langs/?username=IuryAlmeiida&layout=compact&langs_count=16&theme=gruvbox"/>
-</div> 
+  
   <div align="center"><br>
   <img align="center" alt="Iury-HTML" height="30" width="45" padding="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iury-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
